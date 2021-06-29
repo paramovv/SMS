@@ -1,7 +1,9 @@
-### SMS
-**Per Scholas submission assessment: covering the following topics: Core Java, JPA, and JUnit**
+# Student Management System, SBA: Core Java/JPA/Junit
+<br>
+Per Scholas submission assessment: covering the following topics: Core Java, JPA, and JUnit
 <br><br>
 Requirements:
+
 ![](/images/0001.jpg)
 ![](/images/0002.jpg)
 ![](/images/0003.jpg)
